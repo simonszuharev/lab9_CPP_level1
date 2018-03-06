@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1493682237 source:c:\users\simon\desktop\programming\c++\lab9\main.cpp
+	<iostream>
+	<algorithm>
+	<iomanip>
+	<vector>
+	<string>
+	<fstream>
+	<sstream>
+
+1493682237 source:c:\users\simon\desktop\programming\programming ii\c++\lab9\main.cpp
+	<iostream>
+	<algorithm>
+	<iomanip>
+	<vector>
+	<string>
+	<fstream>
+	<sstream>
+
